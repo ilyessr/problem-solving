@@ -12,5 +12,4 @@ To run the solutions locally, clone this repository to your local machine and en
 
 ```bash
 git clone git@github.com:ilyessr/problem-solving.git
-cd challenges/HackerRank/Arrays_LeftRotation
-node solution.js
+node counting_valley.ts
