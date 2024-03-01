@@ -11,6 +11,5 @@ In this repository, you'll find solutions to coding challenges across different 
 To run the solutions locally, clone this repository to your local machine and ensure you have Node.js installed. Then run the solution file using Node.js.
 
 ```bash
-git clone https://github.com/yourusername/challenges.git
-cd challenges/HackerRank/Arrays_LeftRotation
-node solution.js
+git clone git@github.com:ilyessr/problem-solving.git
+node counting_valley.ts
