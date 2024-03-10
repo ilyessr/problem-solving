@@ -1,0 +1,15 @@
+# Ignore les fichiers compilés
+*.class
+*.jar
+
+# Ignore les fichiers de configuration
+*.log
+*.config
+*.properties
+
+# Ignore les fichiers générés par IDE
+.idea/
+.vscode/
+
+# Ignore les fichiers de dépendances
+node_modules/
