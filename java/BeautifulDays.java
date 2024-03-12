@@ -59,7 +59,7 @@ public class BeautifulDays {
         return Math.abs(day - reverse) % k == 0;
     }
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         int i = 20;
         int j = 23;
         int k = 6;
