@@ -13,3 +13,4 @@
 
 # Ignore les fichiers de dépendances
 node_modules/
+.DS_Store
