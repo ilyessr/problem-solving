@@ -17,6 +17,15 @@ import java.util.List;
 
 public class CircularArrayRotation {
 
+    /**
+     * Rotates the elements of the given list in a circular manner by the specified number of steps,
+     * and returns the values at the specified indices after rotation.
+     *
+     * @param a       The list of integers to rotate.
+     * @param k       The number of steps to rotate the list.
+     * @param queries The list of indices to report after rotation.
+     * @return A list containing the values at the specified indices after rotation.
+     */
     public static List<Integer> circularArrayRotation(List<Integer> a, int k, List<Integer> queries) {
         List<Integer> result = new ArrayList<>();
         int length = a.size();
